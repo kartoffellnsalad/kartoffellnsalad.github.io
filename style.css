@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+}
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}

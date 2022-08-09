@@ -1,0 +1,14 @@
+h1 {
+    color: crimson;
+    font-style: normal;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+}
+.lose {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

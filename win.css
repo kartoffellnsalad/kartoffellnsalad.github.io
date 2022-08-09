@@ -1,0 +1,14 @@
+h1 {
+    color: lightgreen;
+    font-style: normal;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+}
+.win {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
